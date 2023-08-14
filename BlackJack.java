@@ -1,8 +1,3 @@
-/*
-Names: Preston Johnson and Luke Schultz
-Lab 8: Blackjack!
-Section 005
-*/
 import java.util.*;
 
 public class BlackJack {
